@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hkjpotato/kj-dep/issues"
   },
-  "homepage": "https://github.com/hkjpotato/kj-dep#readme"
+  "homepage": "https://github.com/hkjpotato/kj-dep#readme",
+  "devDependencies": {
+    "react": "^17.0.1"
+  }
 }
